@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = ['README.md']
 
   # Gem Dependencies
-  s.add_dependency 'hashie',      '~> 2.1.0', '>= 2.1.0'
+  s.add_dependency 'hashie',      '~> 2.0.0', '>= 2.0.0'
   s.add_dependency 'rest-client', '~> 1.6.7', '>= 1.6.7'
 
   # Dev Dependencies
